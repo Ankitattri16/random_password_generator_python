@@ -1,6 +1,6 @@
 import random
 import string
-pass_len=12
+pass_len=int(input())
 Charvalue= string.ascii_letters+ string.digits+ string.punctuation
 
 Password=" "
